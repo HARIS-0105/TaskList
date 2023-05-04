@@ -1,0 +1,38 @@
+@charset "ISO-8859-1";
+.btn:hover{
+	background-color:green;
+}
+.cool{
+	color:green;
+	margin-left:20px;
+}
+.ended{
+	margin-left:20px;
+}
+h2{
+	text-align:center;
+	margin-bottom: 50px;
+}
+li{
+	margin-left:50px;
+}
+.use1{
+    background-color: aliceblue;
+    border-radius:10px;
+    height:300px;
+    overflow-y:auto;
+    border:2px solid grey;
+    border-radius:20px;
+}
+
+.urgent{
+	color:red;
+	margin-left:20px;
+}
+.use
+{
+	margin-top:100px;
+    margin-left:50px;
+    margin-right:50px;
+    height: 400px;   
+}
